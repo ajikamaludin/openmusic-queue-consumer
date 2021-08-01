@@ -1,1 +1,1 @@
-# notes-app-queue-consumer
+# openmusic-app-queue-consumer
